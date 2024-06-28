@@ -1,0 +1,64 @@
+*{
+    border-radius: 0;
+    font-family: 'JetBrainsMono Nerd Font Propo';
+    font-size: 14;
+}
+
+
+
+window#waybar {
+    background: #282828;
+    color: #fbf1c7;
+    border-radius: 10;
+}
+
+#workspaces button{
+    background: #32302f;
+    border-radius: 10;
+}
+
+
+#pulseaudio {
+    background: #32302f;
+    border-radius: 10;
+}
+
+#memory {
+    background: #32302f;
+    border-radius: 10;
+}
+
+#cpu {
+    background: #32302f;
+    border-radius: 10;
+}
+
+#clock {
+    background: #32302f;
+    border-radius: 10;
+}
+
+#battery {
+    background: #32302f;
+    border-radius: 10;
+}
+
+#window {
+    background: #32302f;
+    border-radius: 10;
+}
+
+#tray {
+    background: #32302f;
+    border-radius: 10;
+}
+
+#custom-launcher {
+    background: #32302f;
+    border-radius: 10;
+}
+
+#custom-network {
+    background: #32302f;
+    border-radius: 10;
+}
