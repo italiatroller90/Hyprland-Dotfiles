@@ -1,0 +1,1 @@
+bash ~/.config/rofi/launchers/colorful/launcher.sh
